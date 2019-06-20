@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/list_view_menu"
+        android:title="@string/list_view"
+        android:checked="true"/>
+
+    <item
+        android:id="@+id/grid_view_menu"
+        android:title="@string/grid_view" />
+
+    <item
+        android:id="@+id/info_menu"
+        android:title="Info Aplikasi" />
+
+</menu>

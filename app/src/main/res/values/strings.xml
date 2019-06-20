@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SafanaList</string>
+    <string name="example_name">Susu Kurma Safana</string>
+    <string name="example_detail">penambah energi dan imunitas tubuhnya.... Susu Kurma Safana.... Kita jadi ga perlu khawatir lg dengan kebutuhan nutrisi tubuhnya karena insyaAllah semua bukti yg dibuthkannya sudah ada dalam Susu Kurma Safana</string>
+    <string name="list_view">List View</string>
+    <string name="grid_view">Grid View</string>
+    <string name="lihat_di_maps">Lihat di maps</string>
+    <string name="pesan_lewat_whatsapp">Pesan lewat WhatsApp</string>
+    <string name="safana">Safana</string>
+    <string name="text_info_app">Alhamdulillah.., Ini adalah aplikasi RecyclerView dari Nahl Basalamah.. Kami berharap bisa menjadi salah satu peserta GDK.. , Safana adalah bisnis rumahan yang dijalankan oleh kedua orang tua saya, terimakasih 😊</string>
+</resources>
